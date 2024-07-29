@@ -1,0 +1,1104 @@
+/* Layout Properties */
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@100;200;300;400;500;600;700;800&display=swap');
+
+
+
+.artboard {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 1600px;
+    height: 1195px;
+    /* UI Properties */
+    background: #F6F7F8 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+ /* nav bar and headers */
+.container {
+    position: absolute;
+    top: 18px;
+    left: 18px;
+    width: 1564px;
+    height: 72px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 70px;
+    opacity: 1;
+}
+
+.testlogo {
+    position: absolute;
+    top: 30px;
+    left: 50px;
+    width: 211px;
+    height: 48px;
+    /* UI Properties */
+    background: transparent  0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.nav{
+    position: absolute;
+    top: 23px;
+    left: 473px;
+    width: 663px;
+    height: 63px;
+    /* UI Properties */
+    opacity: 1;
+}
+.navbar{
+    opacity: 1;
+    position: absolute;
+}
+.icon1{
+    top: 46px;
+    left: 473px;
+    width: 16px;
+    height: 17px;
+    /* UI Properties */
+    background: transparent 0% 0% no-repeat padding-box;
+}
+.icon2{
+    top: 46px;
+left: 617px;
+width: 24px;
+height: 17px;
+background: transparent  0% 0% no-repeat padding-box;
+}
+.icon3{
+    top: 46px;
+    left: 762px;
+    width: 15px;
+    height: 17px;
+    /* UI Properties */
+    background: transparent 0% 0% no-repeat padding-box;
+}
+.icon4{
+    top: 46px;
+    left: 889px;
+    width: 19px;
+    height: 17px;
+    /* UI Properties */
+    background: transparent 0% 0% no-repeat padding-box;
+}
+.icon5{
+    top: 46px;
+left: 1017px;
+width: 22px;
+height: 17px;
+background: transparent 0% 0% no-repeat padding-box;
+}
+.greenbox{
+    position: absolute;
+    top: 34px;
+    left: 601px;
+    width: 122px;
+    height: 41px;
+    background: #01F0D0 0% 0% no-repeat padding-box;
+    border-radius: 41px;
+    opacity: 1;
+}
+
+.navtext{
+    position: absolute;
+    text-align: left;
+    font: normal normal bold 14px/19px 'Manrope';
+    letter-spacing: 0px;
+    color: #072635;
+    opacity: 1;
+    top: 45px;
+}
+.text1{
+   
+    left: 498px;
+    width: 63px;
+    height: 19px;
+}
+.text2{
+ 
+    left: 649px;
+    width: 57px;
+    height: 19px;
+}
+.text3{
+    left: 785px;
+    width: 64px;
+    height: 19px;
+}
+.text4{
+    left: 916px;
+    width: 61px;
+    height: 19px;
+}
+.text5{
+    left: 1047px;
+    width: 89px;
+    height: 19px;
+}
+
+
+.right {
+    position: absolute;
+    top: 32px;
+    left: 1309px;
+    width: 241px;
+    height: 44px;
+    /* UI Properties */
+    opacity: 1;
+}
+.user{
+    position: absolute;
+    top: 32px;
+    left: 1309px;
+    width: 181px;
+    height: 44px;
+    /* UI Properties */
+    opacity: 1;
+}
+
+.userphoto {
+    position: absolute;
+    top: 32px;
+    left: 1309px;
+    width: 44px;
+    height: 44px;
+    background: transparent url('img/senior-woman-doctor-and-portrait-smile-for-health-2023-11-27-05-18-16-utc.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.group10{
+    position: absolute;
+    top: 35px;
+    left: 1361px;
+    width: 129px;
+    height: 38px;
+    /* UI Properties */
+    opacity: 1;
+    text-align: left;
+}
+
+.username{
+    position: absolute;
+    top: 35px;
+    left: 1361px;
+    width: 119px;
+    height: 19px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal bold 14px/19px 'Manrope';
+    letter-spacing: 0px;
+    color: #072635;
+    opacity: 1;
+}
+.userstatus{
+    position: absolute;
+    top: 54px;
+    left: 1361px;
+    width: 129px;
+    height: 19px;
+    text-align: left;
+    font: normal normal normal 13px/19px 'Manrope'!important;
+    font-family: 'Manrope', sans-serif;
+
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+.divider{
+    position: absolute;
+    top: 32px;
+    left: 1502px;
+    width: 1px;
+    height: 44px;
+    background: #EDEDED 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.settings{
+    position: absolute;
+    top: 44px;
+    left: 1515px;
+    width: 19px;
+    height:  20px;
+    /* UI Properties */
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.dots{
+    position: absolute;
+    top: 45px;
+    left: 1546px;
+    width: 4px;
+    height: 18px;
+    /* UI Properties */
+    background: transparent url('img/more_vert_FILL0_wght300_GRAD0_opsz24.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+
+/* patient container*/
+.container-patients{
+    position: absolute;
+    top: 122px;
+    left: 18px;
+    width: 367px;
+    height: 1054px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 16px;
+    opacity: 1;
+
+}
+.textpatients{
+    position:absolute;
+    top: 142px;
+    left: 38px;
+    width: 100px;
+    height: 33px;
+    text-align: left;
+    font: normal normal 800 24px/33px Manrope;
+    letter-spacing: 0px;
+    color: #072635;
+    opacity: 1;
+}
+.namebox{
+    position:absolute;
+    top: 215px;
+    left: 38px;
+    width: 317px;
+    height: 48px;
+    /* UI Properties */
+    opacity: 1;
+}
+.activebg{
+    position: absolute;
+    top: 439px;
+    left: 18px;
+    width: 353px;
+    height: 80px;
+    background: #D8FCF7 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.patient{
+    position:absolute;
+   
+    text-align: left;
+    font: normal normal bold 13px/19px 'Manrope';
+    letter-spacing: 0px;
+    color: #072635;
+    opacity: 1;
+}
+.name1{
+    top: 218px;
+    left: 98px;
+    width: 97px;
+    height: 19px;
+}
+.name2{
+    top: 298px;
+    left: 98px;
+    width: 95px;
+    height: 19px;
+}
+.name3{
+    top: 378px;
+left: 98px;
+width: 114px;
+height: 19px;
+}
+.name4{
+    top: 458px;
+    left: 98px;
+    width: 94px;
+    height: 19px;
+
+}
+.name5{
+    top: 538px;
+    left: 98px;
+    width: 131px;
+    height: 19px;
+
+}
+.name6{
+    top: 618px;
+    left: 98px;
+    width: 109px;
+    height: 19px;
+}
+.name7{
+    top: 698px;
+left: 98px;
+width: 84px;
+height: 19px;
+}
+.name8{
+    top: 778px;
+left: 98px;
+width: 73px;
+height: 19px;
+}
+.name9{
+    top: 858px;
+left: 98px;
+width: 105px;
+height: 19px;
+}
+.name10{
+    top: 938px;
+left: 98px;
+width: 113px;
+height: 19px;
+
+}
+.name11{
+    top: 1018px;
+    left: 98px;
+    width: 92px;
+    height: 19px;
+}
+.name12{
+    top: 1098px;
+    left: 98px;
+    width: 74px;
+    height: 19px;
+
+}
+.pat{
+    position: absolute;
+    background: transparent  0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.pic1a{
+    top: 215px;
+left: 38px;
+width: 48px;
+height: 48px;
+}
+.pic4a{
+    top: 455px;
+    left: 38px;
+    width: 48px;
+    height: 48px;
+}
+.age{
+    position: absolute;
+    top: 481px;
+    left: 98px;
+    width: 68px;
+    height: 19px;
+    text-align: left;
+    font: normal normal normal 13px/19px 'Manrope';
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+.threedots{
+    position: absolute;
+    top: 477px;
+    left: 337px;
+    width: 18px;
+    height: 4px;
+    /* UI Properties */
+    background: #072635 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.searchicon{
+    position:absolute;
+    top: 150px;
+    left: 347px;
+    width: 18px;
+    height: 18px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.scroll_bar1{
+    position:absolute;
+    top: 215px;
+    left: 375px;
+    width: 6px;
+    height: 100px;
+    /* UI Properties */
+    background: #072635 0% 0% no-repeat padding-box;
+    border-radius: 3px;
+    opacity: 1;
+
+}
+ /* dianosis history  */
+.container-history{
+    position: absolute;
+    top: 122px;
+    left: 417px;
+    width: 766px;
+    height: 673px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 16px;
+    opacity: 1;
+}
+.history_name{
+    position: absolute; 
+    top: 142px;
+    left: 437px;
+    width: 207px;
+    height: 33px;
+    text-align: left;
+    font: normal normal 800 24px/33px 'Manrope', sans-serif;
+    letter-spacing: 0px;
+    color: #072635;
+    opacity: 1;
+
+}
+.rectangle20{
+    position: absolute;
+    top: 215px;
+    left: 437px;
+    width: 726px;
+    height: 298px;
+    /* UI Properties */
+    background: #F4F0FE 0% 0% no-repeat padding-box;
+    border-radius: 12px;
+    opacity: 1;
+}
+.rectangle21{
+    position:absolute;
+
+}
+.box1{
+    top: 533px;
+    left: 437px;
+    width: 228px;
+    height: 242px;
+    /* UI Properties */
+    background: #E0F3FA 0% 0% no-repeat padding-box;
+    border-radius: 12px;
+    opacity: 1;
+}
+.box2{
+    top: 533px;
+    left: 686px;
+    width: 228px;
+    height: 242px;
+    /* UI Properties */
+    background: #FFE6E9 0% 0% no-repeat padding-box;
+    border-radius: 12px;
+    opacity: 1;
+}
+.box3{
+    top: 533px;
+    left: 935px;
+    width: 228px;
+    height: 242px;
+    /* UI Properties */
+    background: #FFE6F1 0% 0% no-repeat padding-box;
+    border-radius: 12px;
+    opacity: 1;
+}
+.respiratory{
+    position: absolute;
+    /* Layout Properties */
+    top: 549px;
+    left: 453px;
+    width: 96px;
+    height: 96px;
+    /* UI Properties */
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+}
+.temperature{
+    position: absolute;
+    top: 549px;
+    left: 702px;
+    width: 96px;
+    height: 96px;
+    background: transparent  0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.bpm{
+    position: absolute;
+    top: 549px;
+    left: 951px;
+    width: 96px;
+    height: 96px;
+    background: transparent  0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.his{
+    position: absolute;
+    text-align: left;
+    font: normal normal medium 16px/22px Manrope;
+    letter-spacing: 0px;
+    color: #072635;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.text1m{
+    top: 661px;
+    left: 453px;
+    width: 125px;
+    height: 22px;
+}
+.text2m{
+    top: 661px;
+    left: 702px;
+    width: 97px;
+    height: 22px;
+}
+.text3m{
+    top: 661px;
+    left: 951px;
+    width: 80px;
+    height: 22px;
+}
+.history{
+    position: absolute;
+    text-align: left;
+    font: normal normal 800 28px/41px Manrope;
+    letter-spacing: 0px;
+    color: #072635;
+    opacity: 1;
+}
+.text1c{
+    top: 682px;
+    left: 453px;
+    width: 109px;
+    height: 41px;
+}
+.text2c{
+    top: 682px;
+    left: 702px;
+    width: 95px;
+    height: 41px;
+}
+.text3c{
+    top: 682px;
+    left: 951px;
+    width: 106px;
+    height: 41px;
+}
+.hist{
+    position: absolute;
+    text-align: left;
+    font: normal normal normal 14px/19px 'Manrope';
+    letter-spacing: 0px;
+    color: #072635;
+    opacity: 1;
+}
+.text4c{
+    top: 740px;
+    left: 453px;
+    width: 46px;
+    height: 19px;
+}
+.text5c{
+    top: 740px;
+    left: 702px;
+    width: 46px;
+    height: 19px;
+}
+.text6c{
+    top: 740px;
+    left: 969px;
+    width: 127px;
+    height: 19px;
+}
+.arrow1{
+    position: absolute;
+    top: 747px;
+    left: 951px;
+    width: 10px;
+    height: 5px;
+    background: #072635 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+
+ /* profile  */
+.container-jessica{
+    position: relative; 
+    top: 108px;
+    left: 1216px;
+    width: 367px;
+    height: 740px;
+    /* UI Properties */
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border-radius: 16px;
+    opacity: 1;
+}
+.photo{
+    position: absolute;
+    top: 140px;
+    left: 1299px;
+    width: 200px;
+    height: 200px;
+    /* UI Properties */
+    background: transparent  0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.namejessica{
+    position: absolute;
+    top: 364px;
+    left: 1317px;
+    width: 164px;
+    height: 33px;
+    text-align: center;
+    font: normal normal 800 23px/33px 'Manrope';
+    letter-spacing: 0px;
+    color: #072635;
+    opacity: 1;
+    
+}
+.icon{
+    position: absolute;
+    /* UI Properties */
+    background: transparent  0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.pic1{
+    top: 429px;
+    left: 1236px;
+    width: 42px;
+    height: 42px;
+}
+.pic2{
+   
+    top: 495px;
+    left: 1236px;
+    width: 42px;
+    height: 42px;
+}
+.pic3{
+
+    top: 561px;
+    left: 1236px;
+    width: 42px;
+    height: 42px;
+}
+.pic4{
+    top: 627px;
+    left: 1236px;
+    width: 42px;
+    height: 42px;
+}
+.pic5{
+    top: 693px;
+    left: 1236px;
+    width: 42px;
+    height: 42px;
+}
+.rectangle19{
+    position: absolute;
+    top: 775px;
+    left: 1289px;
+    width: 220px;
+    height: 41px;
+    /* UI Properties */
+    background: #01F0D0 0% 0% no-repeat padding-box;
+    border-radius: 41px;
+    opacity: 1;
+}
+.rectangle19_text{
+    position: absolute;
+    top: 786px;
+    left: 1329px;
+    width: 140px;
+    height: 19px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal bold 13px/19px 'Manrope', sans-serif;
+    letter-spacing: 0px;
+    color: #072635;
+    opacity: 1;
+}
+
+
+/*lists style*/
+.container-diagnosticlist{
+    position: absolute;
+    top: 827px;
+    left: 417px;
+    width: 766px;
+    height: 349px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 16px;
+    opacity: 1;
+    border-width: 0cqb;
+}
+.diagname{
+    position: absolute;
+    top: 847px;
+    left: 437px;
+    width: 176px;
+    height: 33px;
+    text-align: left;
+    font: normal normal 800 23.5px/33px Manrope;
+    letter-spacing: 0px;
+    color: #072635;
+    opacity: 1;
+
+}
+.diag{
+    position: absolute;
+}
+.list1{
+    top: 920px;
+    left: 437px;
+    width: 726px;
+    height: 48px;
+    /* UI Properties */
+    background: #F6F7F8 0% 0% no-repeat padding-box;
+    border-radius: 24px;
+    opacity: 1;
+}
+.list2{
+    top: 978px;
+    left: 437px;
+    width: 723px;
+    height: 59px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.list3{
+    top: 1044px;
+    left: 437px;
+    width: 726px;
+    height: 40px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.list4{
+    top: 1091px;
+    left: 437px;
+    width: 726px;
+    height: 40px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.list5{
+    top: 1138px;
+    left: 437px;
+    width: 726px;
+    height: 40px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.problem{
+    position: absolute;
+    top: 935px;
+    left: 453px;
+    width: 129px;
+    height: 19px;
+    text-align: left;
+    font: normal normal bold 14px/19px Manrope;
+    letter-spacing: 0px;
+    color: #072635;
+    opacity: 1;
+}
+.description{
+    position: absolute;
+    top: 935px;
+    left: 686px;
+    width: 79px;
+    height: 19px;
+    text-align: left;
+    font: normal normal bold 14px/19px Manrope;
+    letter-spacing: 0px;
+    color: #072635;
+    opacity: 1;
+}
+.status{
+    position: absolute;
+    top: 935px;
+    left: 1050px;
+    width: 46px;
+    height: 19px;
+    text-align: left;
+    font: normal normal bold 14px/19px Manrope;
+    letter-spacing: 0px;
+    color: #072635;
+    opacity: 1;
+}
+.square{
+    position: absolute;
+    text-align: left;
+    font: normal normal normal 13.5px/19px Manrope;
+    letter-spacing: 0px;
+    color: #072635;
+    opacity: 1;
+}
+.sq1{
+    top: 999px;
+    left: 453px;
+    width: 87px;
+    height: 19px;
+}
+.sq2{
+    top: 999px;
+    left: 686px;
+    width: 181px;
+    height: 19px;
+}
+.sq3{
+    top: 989px;
+    left: 1050px;
+    width: 79px;
+    height: 38px;
+}
+.sq4{
+    top: 1055px;
+    left: 453px;
+    width: 103px;
+    height: 19px;
+}
+.sq5{
+    top: 1055px;
+    left: 686px;
+    width: 278px;
+    height: 19px;
+}
+.sq6{
+    top: 1055px;
+    left: 1050px;
+    width: 40px;
+    height: 19px;
+}
+.sq7{
+    top: 1102px;
+    left: 453px;
+    width: 50px;
+    height: 19px;
+}
+.sq8{
+    top: 1102px;
+    left: 686px;
+    width: 287px;
+    height: 19px;
+}
+.sq9{
+    top: 1102px;
+    left: 1050px;
+    width: 51px;
+    height: 19px;
+}
+.sq10{
+    top: 1149px;
+    left: 453px;
+    width: 91px;
+    height: 19px;
+}
+.sq11{
+    top: 1149px;
+    left: 686px;
+    width: 172px;
+    height: 19px;
+}
+.sq12{
+    top: 1149px;
+    left: 1050px;
+    width: 66px;
+    height: 19px;
+}
+
+/*Lab results*/
+.container-results{
+    position: absolute;
+    top: 880px;
+    left: 1215px;
+    width: 367px;
+    height: 296px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 16px;
+    opacity: 1;
+}
+.resultstext{
+    position:absolute;
+    top: 900px;
+    left: 1235px;
+    width: 137px;
+    height: 33px;
+    text-align: left;
+    font: normal normal 800 24px/33px 'Manrope', sans-serif;
+    letter-spacing: 0px;
+    color: #072635;
+    opacity: 1;
+}
+.labbox{
+    position: absolute;
+    opacity: 1;
+}
+.box1a{
+    top: 949px;
+    left: 1237px;
+    width: 315px;
+    height: 40px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+}
+.box2a{
+    top: 994px;
+    left: 1237px;
+    width: 315px;
+    height: 40px;
+    /* UI Properties */
+    background: #F6F7F8 0% 0% no-repeat padding-box;
+}
+.box3a{
+    top: 1039px;
+    left: 1237px;
+    width: 315px;
+    height: 40px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+}
+.box4a{
+    top: 1084px;
+    left: 1237px;
+    width: 315px;
+    height: 40px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+}
+.box5a{
+    top: 1129px;
+    left: 1237px;
+    width: 315px;
+    height: 40px;
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+}
+.lab{
+    position: absolute;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 13px/18px 'Manrope';
+    letter-spacing: 0px;
+    color: #072635;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.results1{
+    top: 960px;
+    left: 1253px;
+    width: 70px;
+    height: 18px;
+}
+.results2{
+    top: 1005px;
+    left: 1253px;
+    width: 61px;
+    height: 19px;
+}
+.results3{
+    top: 1050px;
+    left: 1253px;
+    width: 118px;
+    height: 19px;
+}
+.results4{
+    top: 1095px;
+    left: 1253px;
+    width: 45px;
+    height: 19px;
+}
+.results5{
+    top: 1140px;
+    left: 1253px;
+    width: 66px;
+    height: 19px;
+}
+.download{
+    position: absolute;
+    opacity: 1;
+}
+.button1{
+    top: 959px;
+    left: 1516px;
+    width: 20px;
+    height: 20px;
+    background: #ffffff 0% 0% no-repeat padding-box;
+
+}
+.button2{
+    top: 1004px;
+    left: 1516px;
+    width: 20px;
+    height: 20px;
+    background: #F6F7F8 0% 0% no-repeat padding-box;
+
+}
+.button3{
+    top: 1049px;
+    left: 1516px;
+    width: 20px;
+    height: 20px;
+    background: #ffffff 0% 0% no-repeat padding-box;
+
+}
+.button4{
+    top: 1094px;
+    left: 1516px;
+    width: 20px;
+    height: 20px;
+    background: #ffffff 0% 0% no-repeat padding-box;
+
+}
+.button5{
+    top: 1139px;
+    left: 1516px;
+    width: 20px;
+    height: 20px;
+    background: #ffffff 0% 0% no-repeat padding-box;
+
+}
+.scrollbar{
+    position:absolute;
+    /* UI Properties */
+    background: #E3E4E6 0% 0% no-repeat padding-box;
+    border-radius: 3px;
+    opacity: 1;
+}
+
+.a1{
+    top: 949px;
+    left: 1556px;
+    width: 6px;
+    height: 207px;
+
+}
+.a2{
+    top: 978px;
+    left: 1157px;
+    width: 6px;
+    height: 178px;
+}
+.a3{
+    top: 215px;
+    left: 375px;
+    width: 6px;
+    height: 941px;
+}
+.scrollbarb{
+    position: absolute;
+    background: #072635 0% 0% no-repeat padding-box;
+    border-radius: 3px;
+    opacity: 1;
+}
+.b1{
+    top: 949px;
+    left: 1556px;
+    width: 6px;
+    height: 51px;
+}
+.b2{
+    top: 978px;
+    left: 1157px;
+    width: 6px;
+    height: 100px;
+}
+.b3{
+    top: 215px;
+    left: 375px;
+    width: 6px;
+    height: 100px;
+}
