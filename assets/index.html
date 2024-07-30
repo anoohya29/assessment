@@ -8,7 +8,8 @@
 </head>
 <body class="artboard">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script src="/assets/main.js"></script>
+   
+    <script src="/assets/script.js"></script>
 
     <!-- here the nav container starts --> 
     <header class="container">
@@ -32,7 +33,7 @@
     
     <div class="right"></div>
     <div class="user"></div>
-    <div class="userphoto"><img src="/assets/senior-woman-doctor-and-portrait-smile-for-health-2023-11-27-05-18-16-utc.png" alt="pic"></div>
+    <div class="userphoto"><img src="/assets/senior-woman-doctor-and-portrait-smile-for-health-2023-11-27-05-18-16-utc.png" alt=" woman"></div>
     <div class="group10"></div>
     <div class="username">Dr. Jose Simmons</div>
     <div class="userstatus"> General Practitioner</div>
@@ -71,14 +72,12 @@
     
    
   <!-- here the diagnosis history container starts --> 
-    <div class="container-history"></div>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script src="/assets/main.js"></script>
-    <div class="history_name">Diagnosis History</div>
-    <div class="graph-container">
-        <canvas id="bloodPressureChart"></canvas>
-    </div>
+  
+  <div class="container-history"></div>
     
+    <div class="history_name">Diagnosis History</div>
+    
+   
 
     <div class="rectangle20"></div>
     <div class="rectangle21 box1"></div>
@@ -87,6 +86,17 @@
     <div class="respiratory"> <img src="/assets/respiratory rate.png" alt="rate"></div>
     <div class="temperature"><img src="/assets/temperature.png" alt="temp"></div>
     <div class="bpm"><img src="/assets/HeartBPM.png" alt="heart"></div>
+
+   
+        
+        <div class="graph-container">
+            <canvas id="bloodPressureChart" ></canvas>
+           
+        </div>
+        <div class="status-container">
+            <div id="systolic-status"></div>
+            <div id="diastolic-status"></div>
+        </div>
 
     <div class="his text1m">Respiratory Rate</div>
     <div class="his text2m">Temperature</div>
@@ -98,6 +108,10 @@
     <div class="hist text5c">Normal</div>
     <div class="hist text6c">Lower than Average</div>
     <div class="arrow1"> </div>
+
+
+
+    
 
 
 <!-- here the name profile container starts -->
